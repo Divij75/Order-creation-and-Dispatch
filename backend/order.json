@@ -1,0 +1,15 @@
+{
+  "pickup_address": {
+    "street": "123 Main St",
+    "city": "San Francisco",
+    "postal_code": "94102"
+  },
+  "delivery_address": {
+    "street": "456 Oak Ave",
+    "city": "Oakland",
+    "postal_code": "94612"
+  },
+  "package_description": "Electronics",
+  "pickup_time": "2024-01-15T10:00:00Z",
+  "priority": "Express"
+}
